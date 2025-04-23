@@ -44,7 +44,7 @@ BlogApp is a full-stack, scalable blog application developed using Java Spring B
 
 ## Loom Video Walkthrough
 Watch a full walkthrough of the project here:
-[Project Demo - Loom](https://www.loom.com/share/fbabacfbc0854425929c142d3815324c?sid=3404d8d6-a273-4bee-bfc8-7f5c8a8af65d)
+[Project Demo - Loom](https://www.loom.com/share/dcf16c48cf454859aa043e6be686fd29)
 
 ---
 
